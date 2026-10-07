@@ -1,0 +1,5 @@
+{
+  "name": "Universal Result Analyzer",
+  "description": "An offline-capable academic result analyzer that parses student result PDFs, generates analytics, generates student reports, and exports to Excel, CSV, JSON, and PDF.",
+  "requestFramePermissions": [],
+}
