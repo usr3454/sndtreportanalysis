@@ -1,3 +1,4 @@
 server_fixed.zip
 server.zip
 .data/database.sqlite
+node_modules/
